@@ -75,4 +75,11 @@
     "rating": 7.7,
     "director": ["Sofia Coppola"],
     "stars": ["Bill Murray", "Scarlett Johansson", "Giovanni Ribisi"]
+}, {
+    "title": "Goodfellas",
+    "genre": ["crime", "drama"],
+    "year": 1990,
+    "rating": 8.7,
+    "director": ["Martin Scorsese"],
+    "stars": ["Ray Liotta", "Robert DeNiro", "Joe Pesci"]
 }]
